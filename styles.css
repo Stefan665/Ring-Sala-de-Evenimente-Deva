@@ -1,0 +1,322 @@
+body{
+  font-family: "Montserrat";
+  margin:0;
+}
+
+hr{
+  background-color: #fff;
+  height: 0px;
+  width: 70%;
+  border: 2px solid #81828A;
+}
+
+h1{
+  font-family: "Montserrat-Black";
+  margin-bottom: 0;
+}
+
+h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+a{
+  color: #fff;
+}
+
+h3{
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+h4{
+  font-family: "Montserrat-Bold";
+}
+
+h5{
+  font-family: "Montserrat-Bold";
+}
+
+h6{
+  font-family: "Montserrat-Bold";
+}
+
+.container-fluid{
+  background-color: #27282C;
+}
+
+.col-lg-6{
+  background-color: #27282C;
+}
+
+.feature-box{
+  font-family: "Montserrat-Black";
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 5%;
+}
+
+.carousel-background{
+  background-color: #27282C;
+}
+
+.icon{
+  color: #75899B;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #5D6A76;
+}
+
+.descriere{
+  background-color: #1E1B1B;
+  color: white;
+  padding-top: 5%;
+}
+
+.locatie{
+  font-size: 145%;
+}
+
+.nav-item{
+  padding-left: 18px;
+  padding-right: 18px;
+  font-family: "Montserrat-Black";
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+  padding-top: 2%;
+}
+
+.navbar-brand{
+  padding-left: 13%;
+  padding-bottom: 0%;
+  font-family: "Montserrat-Black";
+  letter-spacing: 20px;
+}
+
+.navbar-nav{
+    padding-right: 25%;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size:2.5rem;
+  font-weight: bold;
+}
+
+.nav-link{
+  font-family: "Montserrat-Light";
+  font-size: 1.6rem;
+}
+
+.dwn-btn{
+  margin: 5% 3% 5% 0;
+  font-family: "Montserrat-Black";
+}
+
+.buts{
+  font-size: 335%;
+}
+
+.mail-but{
+  font-size: 335%;
+}
+
+.bgUpContact{
+  text-align: center;
+  background-color: #27282C;
+}
+
+.buttons {
+    margin-top: 10vh;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-left: 125%;
+
+}
+
+.alteInfo-titlu{
+    font-size: 50px;
+    font-family: "Montserrat";
+    text-align: center;
+    color: #fff;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.card-deck{
+  margin: 7px 15px;
+  font-family: "Montserrat-Black";
+}
+
+.priceing-column{
+  padding: 3% 2%;
+}
+
+.form{
+  margin-top: 3%;
+}
+
+.textForm{
+  color: black;
+  font-size: 300%;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  font-family: "Tahoma";
+}
+
+.chestionar{
+  margin-top: 4%;
+  padding-bottom: 6%;
+  padding-top: 5%;
+  border-style: solid;
+  border-width: 8px;
+  border-color: #1E1B1B;
+  background-color: #A8ABB8;
+  margin-left: 27%;
+  margin-right: 27%;
+}
+
+.caseta{
+  height: 60px;
+  width: 200px;
+  background-color: #616161;
+  color: black;
+  font-family: "Tahoma";
+  font-size: 200%;
+}
+
+.contactText{
+  margin-top: 4%;
+}
+
+.titluContact{
+  padding-bottom: 5%;
+  padding-top: 4%;
+  font-size: 320%;
+}
+
+.trimiteBut{
+  background-color: #616161;
+   color:black;
+   width:90px;
+   height:50px;
+   font-size:140%;
+   font-family: "Tahoma";
+}
+
+.card-body{
+    color:black;
+}
+
+.fa-instagram:hover{
+  color: #ff4c68;
+}
+
+.fa-facebook:hover{
+  color: #0661EE;
+}
+
+.fa-twitter:hover{
+  color: #00B2FF;
+}
+
+.fa-envelope:hover{
+  color: #FFB200;
+}
+
+.fa-envelopa:hover{
+  color:black;
+}
+
+#carouselExampleIndicators{
+  width:70%;
+  margin-left: 13%;
+}
+
+#carousel-description{
+  font-family: "Montserrat-Bold";
+  color: black;
+}
+
+#descriere{
+  padding: 3% 15% 7%;
+  padding-bottom: 10%;
+  font-family: "Montserrat-Black";
+}
+
+#contactUs{
+  background-color: #27282C;
+  color: #A8ABB8;
+  text-align: center;
+}
+
+#title{
+  background-color: #27282C;
+  color: #fff;
+  font-family: "Montserrat-Black";
+}
+
+#meeting{
+  font-family: "Montserrat";
+  font-size: 5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  text-align: center;
+}
+
+#features{
+  padding:7% 15%;
+  padding-bottom: 3%;
+  font-family: "Montserrat-Black";
+  background-color: #1E1B1B;
+  position: relative;
+}
+
+#text-caracteristici{
+  color: #A8ABB8;
+}
+
+#caracteristici{
+  color: #8f8f8f;
+  font-family: "Montserrat-Black";
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+  font-family: "Montserrat-Black";
+}
+
+#trm-mesaj{
+  color: #000000;
+  font-size: 350%;
+  padding-bottom: 13%;
+}
+
+#footer{
+  text-align: center;
+  padding: 6% 0% 0% 0%;
+  font-family: "Montserrat-black";
+  background-color: #1E1B1B;
+  color: #fff;
+}
+
+#contact{
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 6%;
+  margin-bottom: 5%;
+}
